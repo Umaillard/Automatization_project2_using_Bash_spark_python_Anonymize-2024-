@@ -1,0 +1,2 @@
+# Automatization_project2_using_Bash_spark_python_Anonymize-2024-
+Automazation project
